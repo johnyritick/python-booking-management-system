@@ -1,0 +1,4 @@
+django
+pymongo
+Werkzeug
+PyJWT
